@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there 👋, my name is Beatriz
+#### I'm a software development student
+![I'm a software development student](file:///C:/Users/Beatriz/Desktop/Captura%20de%20tela%202021-11-13%20113521.png)
 
-<!--
-**Beatrizcristin/Beatrizcristin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently studying systems analysis and development and taking courses to specialize in java development. I like to have fun with my family, walk, play games, watch series and movies. And I hope to be in constant evolution.
 
-Here are some ideas to get you started:
+Skills: HTML/CSS/JAVASCRIPT/JAVA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on personal development. 
+- 🌱 I’m currently learning Java, HTML, CSS, Javascript. 
+- 🤔 I’m looking for help with professional development. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Beatrizcristin)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Beatrizcristin)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Beatrizcristin&show_icons=true&count_private=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Beatrizcristin)  
+
+![Profile views](https://gpvc.arturio.dev/Beatrizcristin)  
