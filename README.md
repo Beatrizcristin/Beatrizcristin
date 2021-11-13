@@ -1,7 +1,5 @@
 ### Hi there 👋, my name is Beatriz
 #### I'm a software development student
-![I'm a software development student](file:///C:/Users/Beatriz/Desktop/Captura%20de%20tela%202021-11-13%20113521.png)
-
 I'm currently studying systems analysis and development and taking courses to specialize in java development. I like to have fun with my family, walk, play games, watch series and movies. And I hope to be in constant evolution.
 
 Skills: HTML/CSS/JAVASCRIPT/JAVA
